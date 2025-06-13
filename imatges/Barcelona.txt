@@ -1,0 +1,27 @@
+ID: 004
+Provincia: Barcelona
+Comarca: Barcelonès
+Poblacio: Barcelona
+CP: 08002
+Tipus: Platja
+
+
+Sagrada Familia
+Id:003
+Nom:Sagrada Familia
+Imatge:sagrada_familia.jpg
+Descripcio:El Temple Expiatori de la Sagrada Família (en català : Temple Expiatori de la Sagrada Família ), conegut simplement com la Sagrada Família , és una basílica catòlica de Barcelona ( Espanya ), dissenyada per l' arquitecte Antoni Gaudí . Iniciada el 1882, encara està en construcció. És l'obra mestra de Gaudí i el màxim exponent de l'arquitectura modernista catalana . És el monument més visitat d'Espanya,  i és l'església més visitada d'Europa després de la basílica de Sant Pere del Vaticà . Quan estigui finalitzada, serà l'església cristiana més alta del món.
+
+Tipus:Cultural, Oci
+
+Activitats:Compres
+
+Tividabo
+Id:004
+Nom:Tibidabo
+Imatge:tibidabo.jpg
+Descripcio:El Tibidabo és, amb 512 metres sobre el nivell del mar, el bec més alt de la serra de Collserola , al municipi de Barcelona . És popular per les seves vistes sobre la ciutat i pels seus espais naturals, que són usats amb fins recreatius.
+
+Tipus:Gastronomic, Cultural, Oci
+
+Activitats: Compres

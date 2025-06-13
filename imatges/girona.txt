@@ -1,0 +1,16 @@
+ID: 005
+Provincia: Girona
+Comarca: Gironès
+Poblacio: Girona
+CP: 17005
+Tipus: 
+
+Parc de la Devesa
+Id:005
+Nom:Parc de la Devesa
+Imatge:Parc_Devesa.jpg
+Descripcio:El Parc de la Devesa de Girona, és el parc urbà més gran de Catalunya, està situat entre el Ter, l'Onyar i el Güell, a l'oest del nucli històric de la ciutat de Girona. És una obra declarada bé cultural d'interès nacional.
+
+Tipus: Cultural, Oci, Esport
+
+Activitats: Compres

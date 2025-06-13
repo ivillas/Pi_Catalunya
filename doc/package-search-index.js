@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"cat.almata.ivilla"},{"l":"cat.almata.ivilla.domini"},{"l":"cat.almata.ivilla.persistencia"},{"l":"cat.almata.ivilla.presentacio"},{"l":"cat.almata.ivilla.utils"}];updateSearchResults();
