@@ -38,7 +38,7 @@ public class VistaInfo extends JInternalFrame  implements Formulari {
 	private static final String LBL_DESCRIPCIO="Aplicació per a la gestio dels punts d'interes de Catalunya";
 	private static final String LBL_INFO="Pràctica DAX - RA6, RA5.6-5.8, RA1-Mòdul optatiu";
 	private static final String LBL_ENTITAT="Institut Almata";
-	private static final String LBL_VERSIO="Versio: 1.3";
+	private static final String LBL_VERSIO="Versio: 1.3b";
 	private static final String LBL_AUTOR="Autor: Ivan Villa";
 	private static final String LBL_PEU="";
 	private static final String LBL_ACEPTAR="Aceptar";
